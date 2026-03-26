@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic, wide-angle landscape photograph of a vast mountain range at the golden hour. In the foreground, several distinct, narrow dirt footpaths are carved into a steep hillside. Every individual path, when viewed up close, clearly ascends from left to right at a sharp incline. However, the massive mountain formation that these paths sit upon is unmistakably sloping downward from left to right as it leads toward a distant valley. Both the local upward incline of the paths and the global downward orientation of the mountain are simultaneously visible and held in a realistic, physical tension. Atmospheric depth, rich earthy textures, no text, no charts, no labels, no artificial arrows.",
+  "model": "Nano Banana Pro",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Individual hiking paths clearly ascend from left to right while the entire mountain they traverse unmistakably descends. This represents a trend appearing in every subgroup (the paths) that reverses when viewed as a combined aggregate (the mountain)."
+}
