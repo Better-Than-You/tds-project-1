@@ -1,0 +1,7 @@
+{
+  "insight": "Antarctica is shedding 150 billion tons of ice annually—a rate that has increased sixfold since the 1990s.",
+  "visual_metaphor": "An hourglass where the continent itself is the 'sand' melting into a submerged city.",
+  "dataset_url": "https://climate.nasa.gov/vital-signs/ice-sheets/",
+  "prompt": "A cinematic, photorealistic close-up of a giant glass hourglass... [rest of your prompt]",
+  "image_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/q5/affective_chart.png"
+}
