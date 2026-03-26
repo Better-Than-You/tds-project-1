@@ -1,0 +1,6 @@
+{
+  "prompt": "A wide-angle, high-resolution photograph of a massive starling murmuration at sunset. The thousands of birds have formed three distinct, swirling, dark organic shapes against a deep orange and violet sky. Each shape is clearly separated by open air, showing three distinct clusters. The lighting is cinematic, with silhouettes of the birds sharp against the glow. No text, no labels, no artificial lines, photorealistic nature photography.",
+  "model": "Nano Banana Pro",
+  "concept": "K-Means Clustering",
+  "metaphor": "A starling murmuration where individual birds act as data points, naturally organizing into distinct, fluid clusters based on the physical proximity of their neighbors."
+}
