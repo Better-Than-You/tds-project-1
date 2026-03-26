@@ -1,7 +1,10 @@
 {
-  "insight": "Antarctica is shedding 150 billion tons of ice annually—a rate that has increased sixfold since the 1990s.",
-  "visual_metaphor": "An hourglass where the continent itself is the 'sand' melting into a submerged city.",
+  "insight": "Antarctica is losing approximately 150 billion tons of ice per year, a rate that has accelerated sixfold since the 1990s, directly contributing to global sea-level rise.",
+  "visual_metaphor": "A giant glass hourglass where the top bulb contains a melting Antarctic ice sheet and the bottom bulb contains a partially submerged metropolis.",
   "dataset_url": "https://climate.nasa.gov/vital-signs/ice-sheets/",
-  "prompt": "A cinematic, photorealistic close-up of a giant glass hourglass... [rest of your prompt]",
-  "image_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/q5/affective_chart.png"
+  "prompt": "A cinematic, photorealistic close-up of a giant glass hourglass. In the top bulb, a frozen, jagged miniature continent of Antarctica made of white ice. Instead of sand, clear water is dripping rapidly through the neck. In the bottom bulb, a miniature hyper-realistic city of London is half-submerged in the rising water. Moody lighting, overcast sky reflected in the glass, no text, no labels, no numbers, highly detailed.",
+  "image_url": "https://raw.githubusercontent.com/Better-Than-You/tds-project-1/refs/heads/main/p1i1/affective-chart.png",
+  "model": "Nano Banana Pro",
+  "concept": "The irreversible and accelerating transition of land-based ice into oceanic volume, highlighting the temporal connection between polar decay and urban displacement.",
+  "metaphor": "The hourglass represents the finite nature of the polar ice caps. The transition of ice to water across the 'neck' of the glass symbolizes the 'point of no return' in climate tipping points, where the loss of terrestrial mass becomes the gain of destructive sea levels."
 }
